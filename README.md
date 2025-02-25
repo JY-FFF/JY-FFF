@@ -1,7 +1,7 @@
 ## Hi there 👋My name is FJY 费俊耀
-兴趣爱好：喜欢看科普类书籍，偶尔打打篮球，踢踢足球，既是一个CS糕手也是一个老二次元。
-学习方面：掌握C语言，同时正在学习Python中。
-
+* 兴趣爱好：喜欢看科普类书籍，偶尔打打篮球，踢踢足球，既是一个CS糕手也是一个老二次元。
+* 学习方面：掌握C语言，同时正在学习Python中。
+* 联系我请通过QQ1274675198
 <!--
 **JY-FFF/JY-FFF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
